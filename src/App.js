@@ -10,7 +10,7 @@ export default function App() {
 
   return (
     <div className="App">
-       <div><h1 className="heading">Welcome To , My EmojiPedia 😊</h1></div>
+       <h1 className="heading">Welcome To , My EmojiPedia 😊</h1>
       <div className="container" >{emojis.map(displayEmojis)}</div>
      
       
