@@ -5,15 +5,3 @@
   box-sizing: border-box;
   
 }
-.dict
-{
-background-color: aqua;
-margin:3rem;
-display: flex;
-text-align: center;
-/* display: flex;
-flex-direction: row;
-text-align: center;
-justify-content: center; */
-
-}
