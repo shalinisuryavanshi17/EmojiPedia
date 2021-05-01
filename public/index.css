@@ -5,3 +5,52 @@
   box-sizing: border-box;
   
 }
+body{
+  background-color: #f4f9f9;
+}
+.heading
+{
+  font-family: monospace;
+  text-align: center;
+}
+.box
+{
+  font-family: monospace;
+text-align: center;
+background-color: #caf7e3;
+margin: 4rem;
+width: 300px;
+height: 300px;
+box-shadow: 2px 2px #e1f1dd;
+}
+.box:hover{
+  background-color: #fff;
+}
+.container
+{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    word-break: keep-all;
+    flex-wrap: wrap;
+    line-height: 1;
+    padding: 1rem;
+   
+}
+#title
+{
+  margin-top: 1rem;
+  color:#766161;
+}
+.emoji{
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size:2rem;
+}
+
+h4.meaning
+{
+  line-height: 2;
+justify-content: center;
+font-size: 0.3rem;
+}
