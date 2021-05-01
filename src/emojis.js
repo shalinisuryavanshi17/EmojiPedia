@@ -12,9 +12,9 @@ emoji:"💪",
 meaning:"Relevant emojis for Festivus, a secular holiday celebrated on December 23 which was famous depicted on the American sitcom Seinfeld.",
 },{
   id:3,
-  title:"Star-Struck",
-  emoji:"🤩",
-  meaning:"A yellow face with a broad, open smile, showing upper teeth on most platforms, with stars for eyes, as if seeing a beloved celebrity. Color of stars widely varies by platform, though commonly gold or red. May express that someone or something is amazing, fascinating, impressive, or exciting.",
+  title:"Stuffed Flatbread",
+  emoji:"🥙",
+  meaning:"A flatbread, like pita, stuffed with lettuce, tomato, and/or meat. Resembles a doner kebab, falafel, shawarma, or gyro sandwich, popular in the Middle East and the Mediterranean. Apple and WhatsApp add red onion and cucumber. Not to be confused with the Burrito.",
   },{
     id:4,
     title:"Face Savoring Food",

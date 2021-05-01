@@ -9,9 +9,9 @@ body{
   background-color: #f4f9f9;
 }
 .heading
-{
-  font-family: monospace;
+{font-family: -webkit-pictograph;
   text-align: center;
+  color: crimson;
 }
 .box
 {
